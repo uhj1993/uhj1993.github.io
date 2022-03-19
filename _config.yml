@@ -28,10 +28,11 @@ repository: "uhj1993/uhj1993.github.io"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: "지니지니의 개발 블로그"
-breadcrumbs : true # true, false (default)
+breadcrumbs: true # true, false (default)
 words_per_minute: 200
-comments: "utterances"
-  provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+comments:
+  provider: "utterances"
+  # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
