@@ -1,11 +1,11 @@
 ---
 layout: archive
 permalink: refactoring
-title: "Refactoring"
+title: "refactoring"
 author_profile: true
 ---
 
 {% assign posts = site.categories.refactoring %}
 {% for post in posts %}
-{% include custom-archive-single.html type=entries_layout %}
+{% include archive-single.html type=entries_layout %}
 {% endfor %}

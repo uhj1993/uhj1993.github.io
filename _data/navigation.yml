@@ -22,7 +22,7 @@ main-sidebar:
         category: "css"
   - title: Dev-Study
     children:
-      - title: "Refactoring"
+      - title: "refactoring"
         url: /refactoring/
         category: "refactoring"
   - title: Etc
