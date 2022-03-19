@@ -132,6 +132,11 @@
     border: 1px solid mix(#000, $border-color, 25%);
     border-radius: $border-radius;
 
+    .prev_next {
+      font-family: $cute;
+      color: #ffd861;
+    }
+
     &:hover {
       @include yiq-contrasted($muted-text-color);
     }
@@ -443,6 +448,9 @@
 
   a {
     color: inherit;
+    font-size: $type-size-3;
+    font-family: $cute;
+    color: mix(#fff, $primary-color, 80%);
   }
 
   .active {
@@ -568,6 +576,6 @@
   }
 
   li ul li ul li ul li ul li ul > li a {
-    padding-left: 3.25rem
+    padding-left: 3.25rem;
   }
 }
