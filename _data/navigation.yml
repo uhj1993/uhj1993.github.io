@@ -1,12 +1,32 @@
 # main links
 main:
-  - title: "GIT HUB"
-    url: https://github.com/uhj1993
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /about/
+
+main-sidebar:
+  - title: Javascript
+    children:
+      - title: "Vanila"
+        url: /vanlia/
+        category: "vanlia"
+      - title: "React"
+        url: /react/
+        category: "react"
+      - title: "NextJs"
+        url: /nextjs/
+        category: "nextjs"
+  - title: Design
+    children:
+      - title: "CSS"
+        url: /css/
+        category: "css"
+  - title: Dev-Study
+    children:
+      - title: "Refactoring"
+        url: /refactoring/
+        category: "refactoring"
+  - title: Etc
+    children:
+      - title: "Retrospect"
+        url: /retrospect/
+        category: "retrospect"
