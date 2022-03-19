@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: nextjs
+permalink: nextjs/
 title: "nextjs"
 author_profile: true
 ---

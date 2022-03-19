@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: react
+permalink: react/
 title: "react"
 author_profile: true
 ---

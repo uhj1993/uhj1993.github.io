@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: retrospect
+permalink: retrospect/
 title: "retrospect"
 author_profile: true
 sidebar:

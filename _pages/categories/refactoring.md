@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: refactoring
+permalink: refactoring/
 title: "refactoring"
 author_profile: true
 ---

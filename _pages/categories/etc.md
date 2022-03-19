@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: etc
+permalink: etc/
 title: "etc"
 author_profile: true
 sidebar:
