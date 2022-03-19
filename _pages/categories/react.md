@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: react
-title: "React"
+title: "react"
 author_profile: true
 ---
 

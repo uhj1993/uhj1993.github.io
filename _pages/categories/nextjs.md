@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: nextjs
-title: "NextJs"
+title: "nextjs"
 author_profile: true
 ---
 

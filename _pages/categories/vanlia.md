@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: vanlia/
-title: "Vanlia"
+title: "vanlia"
 author_profile: true
 ---
 

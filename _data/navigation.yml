@@ -1,23 +1,23 @@
 # main links
 main:
-  - title: "About"
+  - title: "about"
     url: /about/
 
 main-sidebar:
   - title: Javascript
     children:
-      - title: "Vanila"
+      - title: "vanlia"
         url: /vanlia/
         category: "vanlia"
-      - title: "React"
+      - title: "react"
         url: /react/
         category: "react"
-      - title: "NextJs"
+      - title: "nextjs"
         url: /nextjs/
         category: "nextjs"
   - title: Design
     children:
-      - title: "CSS"
+      - title: "css"
         url: /css/
         category: "css"
   - title: Dev-Study
@@ -27,7 +27,7 @@ main-sidebar:
         category: "refactoring"
   - title: Etc
     children:
-      - title: "Retrospect"
+      - title: "retrospect"
         url: /retrospect/
         category: "retrospect"
       - title: "etc"

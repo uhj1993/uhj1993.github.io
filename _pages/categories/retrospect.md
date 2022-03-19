@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: retrospect
-title: "Retrospect"
+title: "retrospect"
 author_profile: true
 sidebar:
   nav: "main-sidebar"

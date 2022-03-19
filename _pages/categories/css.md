@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: css
-title: "CSS"
+title: "css"
 author_profile: true
 ---
 
