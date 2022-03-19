@@ -1,7 +1,8 @@
 ---
 layout: archive
-permalink: /vanlia/
+permalink: vanlia/
 title: "Vanlia"
+author_profile: true
 ---
 
 {% assign posts = site.categories.vanlia %}

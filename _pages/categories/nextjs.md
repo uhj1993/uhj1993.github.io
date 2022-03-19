@@ -1,7 +1,8 @@
 ---
 layout: archive
-permalink: /nextjs/
+permalink: nextjs
 title: "NextJs"
+author_profile: true
 ---
 
 {% assign posts = site.categories.nextjs %}

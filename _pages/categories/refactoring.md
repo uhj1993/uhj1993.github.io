@@ -1,7 +1,8 @@
 ---
 layout: archive
-permalink: /refactoring/
+permalink: refactoring
 title: "Refactoring"
+author_profile: true
 ---
 
 {% assign posts = site.categories.refactoring %}

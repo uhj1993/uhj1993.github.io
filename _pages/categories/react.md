@@ -1,7 +1,8 @@
 ---
 layout: archive
-permalink: /react/
+permalink: react
 title: "React"
+author_profile: true
 ---
 
 {% assign posts = site.categories.react %}

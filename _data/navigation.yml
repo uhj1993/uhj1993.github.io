@@ -30,3 +30,6 @@ main-sidebar:
       - title: "Retrospect"
         url: /retrospect/
         category: "retrospect"
+      - title: "etc"
+        url: /etc/
+        category: "etc"
